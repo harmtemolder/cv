@@ -10,11 +10,11 @@ Web Analyst & Analytics Implementation Specialist
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-## About Me
+## ![about me icon](images/about-me.png "About Me") About Me
 
 ..
 
-## Contact Information
+## ![contact information icon](images/contact-information.png "Contact Information") Contact Information
 
 Name | Harm te Molder
 Phone | [+31 (0) 6 426 966 16](tel:+31642696616 "Harm's Phone Number")
@@ -22,11 +22,11 @@ Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm's Email Addre
 LinkedIn | <https://www.linkedin.com/in/harmtemolder/>
 Physical Address | [Griendtsveenseweg 52, Deurne, NL](https://www.google.com/maps?q=Griendtsveenseweg+52,+Deurne,+NL "Harm's Physical Address")
 
-## Work-related Skills
+## ![work-related skills icon](images/work-related-skills.png "Work-related Skills") Work-related Skills
 
 ...
 
-## Experience & Education
+## ![experience & education icon](images/experience-education.png "Experience & Education") Experience & Education
 
 `1654-1660`
 __The King's School, Grantham.__

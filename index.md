@@ -1,31 +1,32 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Harm te Molder's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Harm te Molder
+Web Analyst & Analytics Implementation Specialist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="mail@harmtemolder.com">mail@harmtemolder.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## About Me
 
-## Currently
+..
 
-Standing on the shoulders of giants
+## Contact Information
 
-### Specialized in
+Name | Harm te Molder
+Phone | [+31 (0) 6 426 966 16](tel:+31642696616 "Harm's Phone Number")
+Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm's Email Address")
+LinkedIn | <https://www.linkedin.com/in/harmtemolder/>
+Physical Address | [Griendtsveenseweg 52, Deurne, NL](https://www.google.com/maps?q=Griendtsveenseweg+52,+Deurne,+NL "Harm's Physical Address")
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Work-related Skills
 
+...
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+## Experience & Education
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -58,7 +59,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -82,10 +83,4 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+[//]: # (Last updated: 2019/01/16)

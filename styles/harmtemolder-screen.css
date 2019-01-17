@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  font-size: 100%;
+  font-family: Open Sans, sans-serif;
+  line-height: 1.5em;
+  margin: 1em;
+  color: #212121;
+}
+
+#content {
+  position: relative;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 200px;
+  max-width: 600px;
+}
+
+h1,h2 {
+  font-weight: 600;
+  width: 80%;
+  line-height: 1em;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h1+p {
+	/*subtitle*/
+	font-style: italic;
+	font-size: 1.1em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h2 .icon {
+  height: 0.8em;
+  padding-right: 0.2em;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 800;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #ED7E17;
+}
+
+table {
+  border: 0;
+  border-collapse: collapse;
+  table-layout:fixed;
+  width: 100%;
+}
+
+tr:hover {
+  background-color: #FBE5D1;
+}
+
+td {
+  /*all columns*/
+  padding: 0.4em;
+  vertical-align: top;
+}
+
+td:first-child {
+  /*first columns only*/
+  width: 25%;
+  font-weight: bold;
+  text-align: right;
+}
+
+li#nine {list-style: disc outside url("/images/bullets/9.svg");}
+li#eight {list-style: disc outside url("/images/bullets/8.svg");}
+li#seven {list-style: disc outside url("/images/bullets/7.svg");}
+li#six {list-style: disc outside url("/images/bullets/6.svg");}
+li#five {list-style: disc outside url("/images/bullets/5.svg");}
+li#four {list-style: disc outside url("/images/bullets/4.svg");}
+li#three {list-style: disc outside url("/images/bullets/3.svg");}
+li#two {list-style: disc outside url("/images/bullets/2.svg");}
+
+::selection {
+  background: #FBE5D1;
+}
+
+::-moz-selection {
+  background: #FBE5D1;
+}

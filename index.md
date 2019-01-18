@@ -7,7 +7,7 @@ Freelance Analytics Implementation Specialist & Web Analyst
 
 ## <img class="icon" src="images/about-me.png" alt="about me icon" title="About Me" /> About Me
 
-...
+I'm lazy. I don't like to do the same thing twice. And I don't like you to do the same thing twice if I can automate it instead. I'll make sure that what I deliver is future-proof. You'll be able to use it, even when I'm not around. I'm creative, but not in the painting and sculpturing kind of way. I'll answer your challenges with solutions no-one in your organisation thought of before. I'm a boyscout. Not that I walk around with a compass and a tinderbox, but I'll leave every implementation I touch looking better than it did when I first saw it. Making sense of incomprehensible configurations and cleaning up dirty code is what makes me get up in the morning. That, and good coffee. Great coffee is even better. Speaking of, why don't you invite me for a cup?
 
 ## <img class="icon" src="images/contact-information.png" alt="contact information icon" title="Contact Information" /> Contact Information
 
@@ -41,5 +41,4 @@ If you are curious to what I did before all this, visit [my LinkedIn profile](ht
 [//]: # TODO: Design HTML via CSS
 [//]: # TODO: Design PDF via CSS
 [//]: # TODO: Resize actual icon files
-[//]: # TODO: Set icon height to font size via class and CSS
 [//]: # TODO: Add {:target="_blank"} to all links

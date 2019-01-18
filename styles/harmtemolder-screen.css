@@ -85,14 +85,14 @@ td:first-child {
   text-align: right;
 }
 
-li#nine {list-style: disc outside url("/images/bullets/9.svg");}
-li#eight {list-style: disc outside url("/images/bullets/8.svg");}
-li#seven {list-style: disc outside url("/images/bullets/7.svg");}
-li#six {list-style: disc outside url("/images/bullets/6.svg");}
-li#five {list-style: disc outside url("/images/bullets/5.svg");}
-li#four {list-style: disc outside url("/images/bullets/4.svg");}
-li#three {list-style: disc outside url("/images/bullets/3.svg");}
-li#two {list-style: disc outside url("/images/bullets/2.svg");}
+li#nine {list-style: disc outside url("../images/bullets/9.svg");}
+li#eight {list-style: disc outside url("../images/bullets/8.svg");}
+li#seven {list-style: disc outside url("../images/bullets/7.svg");}
+li#six {list-style: disc outside url("../images/bullets/6.svg");}
+li#five {list-style: disc outside url("../images/bullets/5.svg");}
+li#four {list-style: disc outside url("../images/bullets/4.svg");}
+li#three {list-style: disc outside url("../images/bullets/3.svg");}
+li#two {list-style: disc outside url("../images/bullets/2.svg");}
 
 ::selection {
   background: #FBE5D1;

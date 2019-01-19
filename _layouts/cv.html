@@ -2,6 +2,13 @@
 <html>
 <head>
   {% if site.style == "harmtemolder" %}
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68W9HB');</script>
+  <!-- End Google Tag Manager -->
   <title>{% if page.title %}{{page.title}}{% endif %}</title>
   <link href="styles/normalize.css" type="text/css" rel="stylesheet" />
   <link href="styles/{{site.style}}.css" type="text/css" rel="stylesheet" />
@@ -13,6 +20,12 @@
   <meta charset="utf-8" />
 </head>
 <body>
+  {% if site.style == "harmtemolder" %}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P68W9HB"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  {% endif %}
   <div id="main">
     <div id="content">
     {{content}}

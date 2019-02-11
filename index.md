@@ -25,13 +25,13 @@ Physical Address | [Griendtsveenseweg 52, Deurne, NL](https://www.google.com/map
 
 ## <img class="icon" src="images/work-related-skills.png" alt="work-related skills icon" title="Work-related Skills" /> Work-related Skills
 
-<ul><li id="eight">Setting up and interpreting <strong>Google Analytics</strong> and similar web analytics tools</li>
-<li id="seven">Managing, cleaning up or setting up <strong>Tealium</strong>, <strong>Google Tag Manager</strong> and other tag managers</li>
+<ul><li id="eight">Setting up and interpreting <strong>Google Analytics (360)</strong> and similar web analytics tools</li>
+<li id="seven">Managing, cleaning up or setting up <strong>Tealium</strong>, <strong>Google Tag Manager (360)</strong> and other tag managers</li>
 <li id="six">Writing <strong>JavaScript</strong> and <strong>jQuery</strong> implementations needed for more complex tag management setups and web scraping</li>
-<li id="five">Data crunching and visualisation through <strong>Python</strong> and its <strong>pandas</strong>, <strong>Matplotlib</strong> and <strong>Bokeh</strong> libraries</li>
+<li id="five">Data crunching, feature engineering and visualisation through <strong>Python</strong> and its <strong>pandas</strong>, <strong>Matplotlib</strong> and <strong>Bokeh</strong> libraries</li>
 <li id="four">Building advanced Floodlight configurations for <strong>DoubleClick</strong></li>
-<li id="three">The basics of <strong>SQL</strong> needed for <strong>Google BigQuery</strong></li>
-<li id="two">Some <strong>HTML</strong> and <strong>CSS</strong></li>
+<li id="three">The basics of <strong>SQL</strong> needed to help you make sense of <strong>Google BigQuery</strong></li>
+<li id="two">Some <strong>HTML</strong> and <strong>CSS</strong>, although I'm better at scraping it than writing</li>
 <li id="one">A bit of <strong>R</strong></li></ul>
 
 </div><div class="section" markdown="1">

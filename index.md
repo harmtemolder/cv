@@ -12,7 +12,7 @@ Freelance Data Engineer with a Focus on Marketing
 
 <div class="section" markdown="1">
 
-## <img class="icon" src="images/about-me.svg" alt="about me icon" title="About Me" /> About Me
+## <img class="icon" src="images/dialog.svg" alt="about me icon" title="About Me" /> About Me
 
 I'm lazy. I don't like doing the same thing twice. And I don't like you to do the same thing twice if I can automate it instead. I'll make sure that what I deliver is future-proof. You'll be able to use it, even when I'm not around. I'm creative, but not in the painting and sculpturing kind of way. I'll answer your challenges with solutions no-one in your organisation thought of before. I'm a boy scout. Not that I walk around with a compass and a tinderbox, but <strong class="extra-strong">I'll leave every implementation I touch looking better than it did when I first saw it</strong>. Making sense of incomprehensible configurations and cleaning up dirty code is what makes me get up in the morning. That, and good coffee. Great coffee is even better. Speaking of, let's talk over coffee (and FaceTime<em>\*</em>)?
 
@@ -20,7 +20,7 @@ I'm lazy. I don't like doing the same thing twice. And I don't like you to do th
 
 </div><div class="section" markdown="1">
 
-## <img class="icon" src="images/contact-information.svg" alt="contact information icon" title="Contact Information" /> Contact Information
+## <img class="icon" src="images/mail.svg" alt="contact information icon" title="Contact Information" /> Contact Information
 
 Name | Harm te Molder
 Phone | [+31 (0) 6 426 966 16](tel:+31642696616 "Harm's Phone Number"){:target='_blank'}
@@ -32,7 +32,7 @@ Physical Address | None<em>\*</em>
 
 </div><div class="section" markdown="1">
 
-## <img class="icon" src="images/work-related-skills.svg" alt="work-related skills icon" title="Work-related Skills" /> Work-related Skills
+## <img class="icon" src="images/key.svg" alt="work-related skills icon" title="Work-related Skills" /> Work-related Skills
 
 <ul><li id="nine">Managing, cleaning up and setting up <strong class="extra-strong">Google Tag Manager (360)</strong>, <strong>Tealium iQ</strong> and other tag managers</li>
 <li id="eight">Setting up <strong class="extra-strong">Google Analytics (360)</strong> and similar web analytics tools</li>
@@ -46,7 +46,7 @@ Physical Address | None<em>\*</em>
 
 </div><div class="section" markdown="1">
 
-## <img class="icon" src="images/projects-ive-enjoyed-most.svg" alt="projects ive enjoyed most icon" title="Projects I've enjoyed most" /> Projects I've enjoyed most
+## <img class="icon" src="images/love.svg" alt="projects ive enjoyed most icon" title="Projects I've enjoyed most" /> Projects I've enjoyed most
 
 As Data Engineer at ABN AMRO I was part of a scrum team of five (PO, SM, 2 front-end developers and myself). Together, we made sense of years of legacy implementations of web analytics, marketing pixels, an ancient cookie consent popup and more, spread out over countless codebases. The <strong>1st</strong> challenge was getting all of ABN's web analysts to align on what they wanted to track on all of these environments. The <strong>2nd</strong> was adding scripts to existing systems, some of which weren't actively maintained any more. The <strong>3rd</strong> was keeping everything online while doing all of this, breaking as little as possible. And the <strong>4th</strong> was staying flexible to adjust our plans to new insights that kept popping up. [That boyscout principle I talked about](#about-me) fully applies to this project. <strong class="extra-strong">It was a mess before I started but we left behind a Tealium iQ setup and a data environment that ABN AMRO can finally rely on, for years to come</strong>.
 
@@ -54,7 +54,7 @@ As Senior Analytics Consultant at Expand Online I was either the leading consult
 
 </div><div class="section" markdown="1">
 
-## <img class="icon" src="images/experience-education.svg" alt="experience & education icon" title="Experience & Education" /> Experience & Education
+## <img class="icon" src="images/floppy-disk.svg" alt="experience & education icon" title="Experience & Education" /> Experience & Education
 
 **03/2017 - Today** | <strong class="extra-strong">Freelance Analytics Consultant.</strong> I left Expand Online to travel the world on my motorbike, but took my laptop with me. That meant I could keep on helping both Dutch and global companies sort out their web analytics and data challenges from the road. I returned to the Netherlands at the end of 2018, enabling me to work on-site for a bit, but now I'm travelling again. And working from the road again.
 

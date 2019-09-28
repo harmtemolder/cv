@@ -46,10 +46,10 @@ h2 {
 }
 
 h2 .icon {
-  height: 1em;
-  padding-right: 0.2em;
+  height: 1.2em;
+  /* padding-right: 0.2em; */
   position: absolute;
-  left: -1.4em;
+  left: -1.5em;
   z-index: 1;
 }
 

@@ -1,5 +1,5 @@
 markdown: kramdown
 style: harmtemolder
-colors: orange
+colors: blue
 sass:
   style: compressed

@@ -1,14 +1,46 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@charset "utf-8";
+
+/* Fonts */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Rubik");
+
+$bodyFont: 'Open Sans', sans-serif;
+$headingFont: 'Rubik', sans-serif;
+
+/* Colours */
+$textMedium: #212121;
+$textDark: #000;
+{% if site.colors == "orange" %}
+$accentDark: #ED7E17;
+$accentMedium: #f8cba2;
+$accentLight: rgb(251, 229, 209);
+{% elsif site.colors == "green" %}
+$accentDark: #50B432;
+$accentMedium: #b9e1ad;
+$accentLight: rgb(220, 240, 214);
+{% elsif site.colors == "purple" %}
+$accentDark: #AF49C5;
+$accentMedium: #dfb6e8;
+$accentLight: rgb(239, 219, 243);
+{% else %} // Defaults to blue
+$accentDark: #058DC7;
+$accentMedium: #9bd1e9;
+$accentLight: rgb(205, 232, 244);
+{% endif %}
 
 body {
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
   font-size: 100%;
-  font-family: Open Sans, sans-serif;
+  font-family: $bodyFont;
   line-height: 1.5em;
   margin: 1em;
-  color: #212121;
+  color: $textMedium;
 }
 
 #content {
@@ -22,6 +54,7 @@ body {
 
 h1,h2 {
   font-weight: bold;
+  font-family: $headingFont;
   width: 80%;
   line-height: 1em;
   margin: 1em 0 0.4em 0;
@@ -63,11 +96,11 @@ em {
 
 strong {
   font-weight: bold;
-  color: #000;
+  color: $textDark;
 }
 
 strong.extra-strong {
-  background-color: #FBE5D1;
+  background-color: $accentMedium;
 }
 
 a {
@@ -75,7 +108,7 @@ a {
 }
 
 a:hover {
-  color: #ED7E17;
+  color: $accentDark;
 }
 
 table {
@@ -86,7 +119,7 @@ table {
 }
 
 li:hover,tr:hover {
-  background-color: #FBE5D1;
+  background-color: $accentLight;
 }
 
 td {
@@ -118,11 +151,11 @@ li#two {list-style: disc outside url("../images/bullets/2.svg");}
 li#one {list-style: disc outside url("../images/bullets/1.svg");}
 
 ::selection {
-  background: #FBE5D1;
+  background: $accentLight;
 }
 
 ::-moz-selection {
-  background: #FBE5D1;
+  background: $accentLight;
 }
 
 @page
@@ -136,7 +169,7 @@ li#one {list-style: disc outside url("../images/bullets/1.svg");}
     font-size: 13pt;
     line-height: 1.35em;
     margin: 0;
-    color: #000;
+    color: $textDark;
   }
 
   #content {

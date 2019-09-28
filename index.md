@@ -2,9 +2,8 @@
 layout: cv
 title: Harm te Molder's CV
 last-updated: 2019/09/28
-note: Order by end date
-todo: Resize actual icon files
-todo: Add {:target="_blank"} to all links before saving (this breaks Atom's Markdown syntax, unfortunately), but the RegEx in target-blank-regex.txt should help
+note: Experience & Education is ordered by end date
+note: Add {:target="_blank"} to all links before saving. This breaks Atom's Markdown syntax, unfortunately, so remove when doing serious writing. The RegEx in target-blank-regex.txt should help
 
 ---
 # Harm te Molder
@@ -56,13 +55,13 @@ As Senior Analytics Consultant at Expand Online I was either the leading consult
 
 ## <img class="icon" src="images/floppy-disk.svg" alt="experience & education icon" title="Experience & Education" /> Experience & Education
 
-**03/2017 - Today** | <strong class="extra-strong">Freelance Analytics Consultant.</strong> I left Expand Online to travel the world on my motorbike, but took my laptop with me. That meant I could keep on helping both Dutch and global companies sort out their web analytics and data challenges from the road. I returned to the Netherlands at the end of 2018, enabling me to work on-site for a bit, but now I'm travelling again. And working from the road again.
+**2017/03&ndash;Today** | <strong class="extra-strong">Freelance Analytics Consultant.</strong> I left Expand Online to travel the world on my motorbike, but took my laptop with me. That meant I could keep on helping both Dutch and global companies sort out their web analytics and data challenges from the road. I returned to the Netherlands at the end of 2018, enabling me to work on-site for a bit, but now I'm travelling again. And working from the road again.
 
-**04/2019 - 10/2019** | <strong class="extra-strong">Data Engineer a.i. @ ABN AMRO, Amsterdam.</strong> They asked me to migrate their existing Adobe Analytics and DoubleClick setup to Tealium iQ, but we ended up completely re-doing both of those (and more) because they turned out to be [spaghetti layer cakes](https://www.google.com/search?tbm=isch&q=spaghetti%20layer%20cake&tbs=imgo:1){:target='_blank'} of legacy. Lots of fun, really. I've worked for e-commerce, publishers, recruitment agencies and more, but this was my first bank. And if you've ever worked for one, you know that they're special. If you haven't, ask me about this when you [contact me](#contact-information).
+**2019/04&ndash;2019/10** | <strong class="extra-strong">Data Engineer a.i. @ ABN AMRO, Amsterdam.</strong> They asked me to migrate their existing Adobe Analytics and DoubleClick setup to Tealium iQ, but we ended up completely re-doing both of those (and more) because they turned out to be [spaghetti layer cakes](https://www.google.com/search?tbm=isch&q=spaghetti%20layer%20cake&tbs=imgo:1){:target='_blank'} of legacy. Lots of fun, really. I've worked for e-commerce, publishers, recruitment agencies and more, but this was my first bank. And if you've ever worked for one, you know that they're special. If you haven't, ask me about this when you [contact me](#contact-information).
 
-**03/2011 - 02/2017** | <strong class="extra-strong">Analytics Consultant @ Expand Online, Rotterdam.</strong> I started off as an SEO intern but became Expand Online’s first Analytics Consultant in a team that quickly grew&mdash;8 by the time I left. I helped Expand Online's e-commerce, recruitment and b2b clients come up with their web analytics strategies, shaped those into a measurement plan, guided their developers through the implementations (or do these myself through tag management tools), and finally helped them make sense of the results either in recurring reports and dashboards or through one-off analyses.
+**2011/03&ndash;2017/02** | <strong class="extra-strong">Analytics Consultant @ Expand Online, Rotterdam.</strong> I started off as an SEO intern but became Expand Online’s first Analytics Consultant in a team that quickly grew&mdash;8 by the time I left. I helped Expand Online's e-commerce, recruitment and b2b clients come up with their web analytics strategies, shaped those into a measurement plan, guided their developers through the implementations (or do these myself through tag management tools), and finally helped them make sense of the results either in recurring reports and dashboards or through one-off analyses.
 
-**02/2012 - 01/2013** | <strong>MSc. Persuasive Communication @ University of Amsterdam.</strong> Although "Persuasive Communication" sounds fancier, just think of this as a <strong class="extra-strong">master’s degree in marketing communications</strong>.
+**2012/02&ndash;2013/01** | <strong>MSc. Persuasive Communication @ University of Amsterdam.</strong> Although "Persuasive Communication" sounds fancier, just think of this as a <strong class="extra-strong">master’s degree in marketing communications</strong>.
 
 If you are curious to what I did before all this, [find me on LinkedIn](https://www.linkedin.com/in/harmtemolder/ "Harm's LinkedIn Profile"){:target='_blank'} or [just mail me](mailto:mail@harmtemolder.com "Harm's Email Address"){:target='_blank'}.
 

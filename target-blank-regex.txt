@@ -1,4 +1,7 @@
-Replace All
+replace all
+
 (\[[^\]]+\]\((tel|mailto|https?):[^\)]+\))
+
 with
+
 $1{:target='_blank'}

@@ -1,0 +1,200 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@charset "utf-8";
+
+/* Fonts */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Rubik");
+
+$bodyFont: 'Open Sans', sans-serif;
+$headingFont: 'Rubik', sans-serif;
+
+/* Colours */
+$textMedium: #212121;
+$textDark: #000;
+{% if site.colors == "orange" %}
+$accentDark: #ED7E17;
+$accentMedium: #f8cba2;
+$accentLight: rgb(251, 229, 209);
+{% elsif site.colors == "green" %}
+$accentDark: #50B432;
+$accentMedium: #b9e1ad;
+$accentLight: rgb(220, 240, 214);
+{% elsif site.colors == "purple" %}
+$accentDark: #AF49C5;
+$accentMedium: #dfb6e8;
+$accentLight: rgb(239, 219, 243);
+{% else %} // Defaults to blue
+$accentDark: #058DC7;
+$accentMedium: #9bd1e9;
+$accentLight: rgb(205, 232, 244);
+{% endif %}
+
+body {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 100%;
+  font-family: $bodyFont;
+  line-height: 1.5em;
+  margin: 1em;
+  color: $textMedium;
+}
+
+#content {
+  position: relative;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 200px;
+  max-width: 600px;
+}
+
+h1,h2 {
+  font-weight: bold;
+  font-family: $headingFont;
+  width: 80%;
+  line-height: 1em;
+  margin: 1em 0 0.4em 0;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.1em;
+}
+
+h1+p {
+	/* subtitle */
+	font-style: italic;
+	font-size: 1.1em;
+  margin-top: 0.1em;
+}
+
+h2 {
+  font-size: 1.4em;
+  position: relative;
+  z-index: 100;
+}
+
+h2 .icon {
+  height: 1.2em;
+  /* padding-right: 0.2em; */
+  position: absolute;
+  left: -1.5em;
+  z-index: 1;
+}
+
+p,ul,table {
+  margin: 0.4em 0 1em 0;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+  color: $textDark;
+}
+
+strong.extra-strong {
+  background-color: $accentMedium;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: $accentDark;
+}
+
+table {
+  border: 0;
+  border-collapse: collapse;
+  table-layout:fixed;
+  width: 100%;
+}
+
+li:hover,tr:hover {
+  background-color: $accentLight;
+}
+
+td {
+  /*all columns*/
+  padding: 0.1em 0 0.1em 0.4em;
+  vertical-align: top;
+}
+
+td:first-child {
+  /*first columns only*/
+  width: 25%;
+  padding: 0.1em 0.4em 0.1em 0;
+  font-weight: bold;
+  text-align: right;
+}
+
+ul {
+  padding-left: 1.4em;
+}
+
+li#nine {list-style: disc outside url("../images/bullets/9.svg");}
+li#eight {list-style: disc outside url("../images/bullets/8.svg");}
+li#seven {list-style: disc outside url("../images/bullets/7.svg");}
+li#six {list-style: disc outside url("../images/bullets/6.svg");}
+li#five {list-style: disc outside url("../images/bullets/5.svg");}
+li#four {list-style: disc outside url("../images/bullets/4.svg");}
+li#three {list-style: disc outside url("../images/bullets/3.svg");}
+li#two {list-style: disc outside url("../images/bullets/2.svg");}
+li#one {list-style: disc outside url("../images/bullets/1.svg");}
+
+::selection {
+  background: $accentLight;
+}
+
+::-moz-selection {
+  background: $accentLight;
+}
+
+@page
+{
+  size: A4;
+  margin: 20mm;
+}
+
+@media print {
+  body {
+    font-size: 13pt;
+    line-height: 1.35em;
+    margin: 0;
+    color: $textDark;
+  }
+
+  #content {
+    width: 90%;
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+  .section {
+    page-break-inside: avoid;
+  }
+
+  h1,h2 {
+    margin: 1em 0 0.2em 0;
+  }
+
+  p,ul,table {
+    margin: 0.3em 0 0.6em 0;
+  }
+
+  p,td {
+    text-align: justify;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}

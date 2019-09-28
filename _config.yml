@@ -1,2 +1,5 @@
-markdown:   kramdown
-style:  kjhealy
+markdown: kramdown
+style: harmtemolder
+colors: blue
+sass:
+  style: compressed

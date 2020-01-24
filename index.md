@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Harm te Molder's CV
-last-updated: 2019/09/28
+last-updated: 2020-01-24
 note: Experience & Education is ordered by end date
 note: Add {:target="_blank"} to all links before saving. This breaks Atom's Markdown syntax, unfortunately, so remove when doing serious writing. The RegEx in target-blank-regex.txt should help
 
@@ -15,14 +15,14 @@ Freelance Data Engineer with a Focus on Marketing
 
 I'm lazy. I don't like doing the same thing twice. And I don't like you to do the same thing twice if I can automate it instead. I'll make sure that what I deliver is future-proof. You'll be able to use it, even when I'm not around. I'm creative, but not in the painting and sculpturing kind of way. I'll answer your challenges with solutions no-one in your organisation thought of before. I'm a boy scout. Not that I walk around with a compass and a tinderbox, but <strong class="extra-strong">I'll leave every implementation I touch looking better than it did when I first saw it</strong>. Making sense of incomprehensible configurations and cleaning up dirty code is what makes me get up in the morning. That, and good coffee. Great coffee is even better. Speaking of, let's talk over coffee (and FaceTime<em>\*</em>)?
 
-<em>\* I don't live anywhere, at the moment. Depending on when you read this I'm house-sitting in the Netherlands or exploring Chili in a 4x4 camper van. No worries though, I have my laptop with me and there's 4G everywhere, these days.</em>
+<em>\* I don't live anywhere, at the moment. Depending on when you read this I'm exploring Patagonia in a camper van or in a cafe, back in civilisation. No worries though, I have my laptop with me and there's 4G everywhere, these days.</em>
 
 </div><div class="section" markdown="1">
 
 ## <img class="icon" src="images/mail.svg" alt="contact information icon" title="Contact Information" /> Contact Information
 
 Name | Harm te Molder
-Phone | [+31 (0) 6 426 966 16](tel:+31642696616 "Harm's Phone Number"){:target='_blank'}
+WhatsApp | [+31 (0) 6 426 966 16](https://wa.me/31642696616 "Harm's Phone Number"){:target='_blank'}
 Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm's Email Address"){:target='_blank'}
 LinkedIn | [https://www.linkedin.com/in/harmtemolder/](https://www.linkedin.com/in/harmtemolder/ "Harm's LinkedIn Profile"){:target='_blank'}
 Physical Address | None<em>\*</em>

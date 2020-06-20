@@ -6,7 +6,7 @@ note: Experience & Education is ordered by end date
 note: Add {:target="_blank"} to all links before saving. This breaks Atom's Markdown syntax, unfortunately, so remove when doing serious writing. The RegEx in target-blank-regex.txt should help
 
 ---
-# Harm te Molder
+# <img class="icon photo" src="images/harm-te-molder.png" alt="Harm te Molder" title="Harm te Molder" height="34" width="34"/> Harm te Molder
 Freelance Data Engineer with a Focus on Marketing
 
 <div class="section" markdown="1">
@@ -22,7 +22,7 @@ I'm lazy. I don't like doing the same thing twice. And I don't like you to do th
 ## <img class="icon" src="images/mail.svg" alt="contact information icon" title="Contact Information" /> Contact Information
 
 Name | Harm te Molder
-WhatsApp | [+31 (0) 6 426 966 16](https://wa.me/31642696616 "Harm's Phone Number"){:target='_blank'}
+Signal | [+31 (0) 6 426 966 16](tel:0031642696616 "Harm's Phone Number"){:target='_blank'}
 Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm's Email Address"){:target='_blank'}
 LinkedIn | [https://www.linkedin.com/in/harmtemolder/](https://www.linkedin.com/in/harmtemolder/ "Harm's LinkedIn Profile"){:target='_blank'}
 Physical Address | None<em>\*</em>

@@ -1,5 +1,5 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
+# Front matter comment to ensure Jekyll properly reads file. In case it still does not, tail dash sea sixty-six eight.
 ---
 
 @charset "utf-8";
@@ -78,12 +78,12 @@ h2 {
   z-index: 100;
 }
 
-h2 .icon {
+h1 .icon, h2 .icon {
   height: 1.2em;
-  /* padding-right: 0.2em; */
+  width: auto;
   position: absolute;
   left: -1.5em;
-  z-index: 1;
+  z-index: 101;
 }
 
 p,ul,table {
@@ -156,6 +156,22 @@ li#one {list-style: disc outside url("../images/bullets/1.svg");}
 
 ::-moz-selection {
   background: $accentLight;
+}
+
+img.photo {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+img.photo:hover {
+  border-right: 10px solid rgba(255, 255, 255, .67);
+  border-bottom: 10px solid rgba(255, 255, 255, .67);
+  height: auto;
+  width: 66%;
+  min-width: 133px;
+  max-width: 400px;
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
 }
 
 @page

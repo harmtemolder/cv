@@ -16,9 +16,13 @@ A curriculum vitae maintained in plain text and rendered to html and pdf using C
 
 ### How to build
 
-* To serve locally, use `jekyll serve` and navigate to the URL (probably [localhost:4000](http://localhost:4000/)).
+* To serve locally, use `jekyll serve`* and navigate to the URL (probably [localhost:4000](http://localhost:4000/)).
 * Pushing changes to GitHub will publish the CV to [harmtemolder.github.io/cv/](https://harmtemolder.github.io/cv/).
 * To generate a PDF, just print from your browser. The CSS contains an `@media print` section that takes care of print formatting
+
+### \*Installing Jekyll
+1. `gem install --user-install bundler jekyll`
+Source: https://jekyllrb.com/docs/installation/macos/
 
 ## Credits
 * Original Markdown CV by [Eliseo Papa](https://elipapa.github.io/markdown-cv/)

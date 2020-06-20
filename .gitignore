@@ -1,6 +1,5 @@
-_site/
-.sass-cache/
+_site
+.jekyll-cache
 .DS_Store
 GTM-*
 *.pdf
-node_modules/*

@@ -6,7 +6,7 @@ note: Experience & Education is ordered by end date
 note: Add {:target="_blank"} to all links before saving. This breaks Atom's Markdown syntax, unfortunately, so remove when doing serious writing. The RegEx in target-blank-regex.txt should help
 
 ---
-# <img class="icon photo" src="images/harm-te-molder.png" alt="Harm te Molder" title="Harm te Molder" height="34" width="34"/> Harm te Molder
+# <img class="icon photo" src="images/harm-te-molder-400.png" alt="Harm te Molder" title="Harm te Molder" height="34" width="34"/> Harm te Molder
 Freelance Data Engineer with a Focus on Marketing
 
 <div class="section" markdown="1">

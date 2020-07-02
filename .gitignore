@@ -1,5 +1,16 @@
-_site
-.jekyll-cache
-.DS_Store
-GTM-*
+# Mine
+LICENSE
+README.md
+*.json
 *.pdf
+*.txt
+
+# Mac
+.DS_Store
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

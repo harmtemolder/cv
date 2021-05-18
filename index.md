@@ -22,7 +22,8 @@ I'm lazy. I don't like doing the same thing twice. And I don't like you to do th
 ## <img class="icon" src="images/mail.svg" alt="contact information icon" title="Contact Information" /> Contact Information
 
 Name | Harm te Molder
-Signal | [+31 (0) 6 426 966 16](tel:0031642696616 "Harm's Phone Number"){:target='_blank'}
+Signal | [+31 (0) 6 426 966 16](tel:0031642696616 "Harm's Signal Number"){:target='_blank'}
+Phone | [+31 (0) 493 21 90 13](tel:0031493219013 "Harm's Phone Number"){:target='_blank'}
 Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm's Email Address"){:target='_blank'}
 LinkedIn | [https://www.linkedin.com/in/harmtemolder/](https://www.linkedin.com/in/harmtemolder/ "Harm's LinkedIn Profile"){:target='_blank'}
 Physical Address | None<em>\*</em>

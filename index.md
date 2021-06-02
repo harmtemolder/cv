@@ -1,11 +1,7 @@
 ---
 layout: cv
 title: Harm te Molder’s CV
-last-updated: 2020-01-24T00:00:00.000Z
-note: >-
-  Add {:target="_blank"} to all links before saving. This breaks Atom’s Markdown
-  syntax, unfortunately, so remove when doing serious writing. The RegEx in
-  target-blank-regex.txt should help
+last-updated: 2020-06-02T00:00:00.000Z
 ---
 
 # ![Harm te Molder](images/harm-te-molder-400.png "Harm te Molder"){:class="icon photo"} Harm te Molder
@@ -53,9 +49,11 @@ _* I don’t have one of those, but I’ll send you my latest GPS coordinates, i
 
 ## ![projects ive enjoyed most icon](images/love.svg "Projects I’ve enjoyed most"){:class="icon"} Projects I’ve enjoyed most
 
-As Data Engineer at ABN AMRO I was part of a scrum team of five (PO, SM, 2 front-end developers and myself). Together, we made sense of years of legacy implementations of web analytics, marketing pixels, an ancient cookie consent popup and more, spread out over countless codebases. The **1st** challenge was getting all of ABN’s web analysts to align on what they wanted to track on all of these environments. The **2nd** was adding scripts to existing systems, some of which weren’t actively maintained anymore. The **3rd** was keeping everything online while doing all of this, breaking as little as possible. And the **4th** was staying flexible to adjust our plans to new insights that kept popping up. [That boyscout principle I talked about](#about-me) fully applies to this project. **It was a mess before I started, but we left behind a Tealium iQ setup and a data environment that ABN AMRO can finally rely on, for years to come**{:class="extra-strong"}.
+The most rewarding project I’m working on at the moment is **coaching an in-house web analyst at the Dutch offshoot of a global consumer brand**. He does all the actual work in GTM and GA, and all I do is answering his questions. Reviewing his tag plans. **Sharing knowledge**{:class="extra-strong"}.
 
-As Senior Analytics Consultant at Expand Online I was either the leading consultant involved with major new implementations, or the only one. As such, **I helped [Randstad](https://www.randstad.com/){:target="_blank"}, [Rituals](https://www.rituals.com/){:target="_blank"} and [TomTom](https://www.tomtom.com/){:target="_blank"} move from either a basic Google Analytics implementation or a non-Google analytics tool to Google Analytics 360**{:class="extra-strong"}. Depending on Google’s differing involvement per project I was completely responsible for, or at least involved in, formulating a measurement plan and subsequently implementing that in Google Tag Manager (or Tealium iQ, in the case of TomTom). After finishing the implementation phase, I supported the organizations’ web analysts in setting up Google Data Studio, Google BigQuery and other third-party data analysis and visualization tools. I also advised the organizations’ marketers on how to use all these new insights for their advertising campaigns. TomTom then asked me to set up Tealium AudienceStream (their Customer Data Platform, or "CDP"), which enabled them to personalize their website, advertising and email in real-time based on user data and interactions.
+As **Data Engineer at ABN AMRO** I was part of a scrum team of 5. Together, we made sense of years of legacy implementations of web analytics, marketing pixels, an ancient cookie consent popup and more, spread out over countless codebases. The **1st** challenge was getting all of ABN’s web analysts to align on what they wanted to track on all of these environments. The **2nd** was adding scripts to existing systems, some of which weren’t actively maintained anymore. The **3rd** was keeping everything online while doing all of this, breaking as little as possible. And the **4th** was staying flexible to adjust our plans to new insights that kept popping up. [That boyscout principle I talked about](#about-me) fully applies to this project. **It was a mess before I started, but we left behind a Tealium iQ setup and a data environment that ABN AMRO can finally rely on, for years to come**{:class="extra-strong"}.
+
+As **Senior Analytics Consultant at Expand Online** I was either the leading consultant involved with major new implementations, or the only one. As such, **I helped [Randstad](https://www.randstad.com/){:target="_blank"}, [Rituals](https://www.rituals.com/){:target="_blank"} and [TomTom](https://www.tomtom.com/){:target="_blank"} move from either a basic Google Analytics implementation or a non-Google analytics tool to Google Analytics 360**{:class="extra-strong"}. Depending on Google’s differing involvement per project I was completely responsible for, or at least involved in, formulating a measurement plan and subsequently implementing that in Google Tag Manager (or Tealium iQ, in the case of TomTom). After finishing the implementation phase, I supported the organizations’ web analysts in setting up Google Data Studio, Google BigQuery and other third-party data analysis and visualization tools. I also advised the organizations’ marketers on how to use all these new insights for their advertising campaigns. TomTom then asked me to set up Tealium AudienceStream (their Customer Data Platform, or “CDP”), which enabled them to personalize their website, advertising and email in real-time based on user data and interactions.
 
 </div><div class="section" markdown="1">
 
@@ -67,7 +65,7 @@ As Senior Analytics Consultant at Expand Online I was either the leading consult
 
 **2011/03–2017/02** | **Analytics Consultant @ Expand Online, Rotterdam.**{:class="extra-strong"} I started off as an SEO intern but became Expand Online’s first Analytics Consultant in a team that quickly grew—8 by the time I left. I helped Expand Online’s e-commerce, recruitment and b2b clients come up with their web analytics strategies, shaped those into measurement plans, guided their developers through the implementations (or do these myself through tag management tools), and finally helped them make sense of the results either in recurring reports and dashboards or through one-off analyses.
 
-**2012/02–2013/01** | **M.Sc. Persuasive Communication @ University of Amsterdam.** Although "Persuasive Communication" sounds fancier, just think of this as a **master’s degree in marketing communications**{:class="extra-strong"}.
+**2012/02–2013/01** | **M.Sc. Persuasive Communication @ University of Amsterdam.** Although “Persuasive Communication” sounds fancier, just think of this as a **master’s degree in marketing communications**{:class="extra-strong"}.
 
 If you are curious to what I did before all this, [find me on LinkedIn](https://www.linkedin.com/in/harmtemolder/ "Harm’s LinkedIn Profile"){:target="_blank"} or [just mail me](mailto:mail@harmtemolder.com "Harm’s Email Address"){:target="_blank"}.
 

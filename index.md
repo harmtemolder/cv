@@ -22,7 +22,7 @@ _¹ I don’t live anywhere, at the moment. Depending on when you’re reading t
 
 Name | Harm te Molder
 Signal | [+31 (0) 6 426 966 16](tel:0031642696616 "Harm’s Signal Number"){:target="_blank"}
-Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm’s Email Address"){:target="_blank"} ([PGP key](b0ac98b81213747fec6d434ff5b5518284b11e73.asc){:target="_blank"})
+Email | [mail@harmtemolder.com](mailto:mail@harmtemolder.com "Harm’s Email Address"){:target="_blank"} ([PGP key](d283fbad9252a58b2394b81253e5c9185de9de70.asc){:target="_blank"})
 LinkedIn | [https://www.linkedin.com/in/harmtemolder/](https://www.linkedin.com/in/harmtemolder/ "Harm’s LinkedIn Profile"){:target="_blank"}
 Physical Address | None²
 
